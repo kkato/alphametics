@@ -1,4 +1,4 @@
-# Date: 06/23/20
+# Date: 2020 06/23
 # Author: Ken Kato
 # Reference: https://github.com/diveintomark/diveintopython3/blob/master/examples/alphametics.py
 # Description: solve a alphametrics
